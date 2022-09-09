@@ -11,8 +11,9 @@ Add collaborators to the list.
 
 Create a collaborator search by name.
 
-## Link
-https://pj85rc.github.io/D2-hook-useState/
+## Links
+GitHub Pages: https://pj85rc.github.io/D3-Render-dynamic-component/
+Netlify: https://pj85rc-d3-render-dynamic-component.netlify.app/
 
 ## Installation
 
